@@ -21,13 +21,6 @@ Os exercícios abordam diversos níveis de dificuldade, indo desde conceitos bá
   - Leitura de listas de dados e identificação de padrões.
   - Contagem de elementos com base em condições específicas.
 
-## 🎯 Objetivo
-
-Estes exercícios têm como foco:
-- Desenvolver a habilidade de resolver problemas de forma lógica e estruturada.
-- Aprimorar a fluência no uso de sintaxes fundamentais do Java.
-- Preparar o aluno para desafios reais encontrados em projetos e no mercado de trabalho.
-
 ## 🚀 Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação utilizada para a resolução dos exercícios.
