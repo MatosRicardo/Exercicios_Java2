@@ -33,7 +33,5 @@ public class Exercicio12 {
         } else {
             System.out.println("Digite um peso e/ou altura correta");
         }
-
-
     }
 }
