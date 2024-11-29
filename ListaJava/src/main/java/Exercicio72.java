@@ -2,7 +2,7 @@ public class Exercicio72 {
     public static void main(String[] args) {
         /*72) Faça um programa que leia um número inteiro e exiba se ele é um número primo.*/
 
-        int numero = 29; //Digite o número que voce queira saber se é primo ou não.
+        int numero = 29;
         boolean isPrimo = true;
 
         if (numero <= 1) {
