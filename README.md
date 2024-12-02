@@ -39,7 +39,3 @@ Os exercícios abordam diversos níveis de dificuldade, indo desde conceitos bá
 
 4. **Contar Menores e Maiores de Idade**:
    - Receber idades de um grupo e contar quantos são menores e maiores de idade.
----
-
-**Instituto PROA**  
-Capacitando jovens para o futuro! 🚀
